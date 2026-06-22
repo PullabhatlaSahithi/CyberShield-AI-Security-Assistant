@@ -1,4 +1,4 @@
-# CyberShield AI Security Assistant
+# CyberShield AI Security Assistant 
 
 ## Overview
 
@@ -12,7 +12,7 @@ The system monitors screen content, extracts text using OCR, analyzes URLs and w
 
 CyberShield provides instant alerts and security recommendations to help users avoid online threats.
 
----
+
 
 ## Features
 
